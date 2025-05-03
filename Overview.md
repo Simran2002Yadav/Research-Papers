@@ -4,7 +4,7 @@
 
 Delhi Technological University (DTU) (Offsite)
 
-Aug 2023 to Jun 2024 (Full Time)
+Dec 2022 to Jun 2024 (Full Time)
 
 This study investigates how different forms of globalization—trade, technological, and financial—impact income inequality in
 Asian countries, how those impacts are influenced when these forms of globalization interact with a country’s financial development.
