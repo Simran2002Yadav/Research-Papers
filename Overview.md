@@ -1,12 +1,25 @@
 # Research-Papers
 
-## Dissertation - How Financial Development Shapes the Impact of Globalizationon Income Inequality?
+## PUBLISHED PAPER - How Financial Development Shapes the Impact of Globalizationon Income Inequality? Economic Analysis and Policy 86 (2025) 1083–1098 
 
 Delhi Technological University (DTU) (Offsite)
 
 Aug 2023 to Jun 2024 (Full Time)
 
-This paper empirically investigates the joint impact of different types of globalization and financial development on income inequality. Using a fixed effects panel data model with data for 22 Asian countries from 2007 to 2019, we show that the influence of globalization on income inequality is lessened when financial development takes place. Our initial model demonstrates the combined impact of trade globalization and financial development significantly and negatively affects income inequality. Similarly, our second model estimates that technological globalization combined with financial development also significantly and negatively affects income inequality. Furthermore, we demonstrate that financial development can mitigate the effect of financial globalization on income disparity. Additionally our findings show that while urbanization exacerbates income inequality, GDP per capita appears to mitigate the inequality impact.
+This study investigates how different forms of globalization—trade, technological, and financial—impact income inequality in
+Asian countries, how those impacts are influenced when these forms of globalization interact with a country’s financial development.
+In other words, the study seeks to know how financial development shapes globalization’s impact on income inequality in Asian
+countries. This study employs fixed effect panel data methodology which accounts for unobservable country effects, to test hypotheses
+and derive empirical results.
+The findings show that all three modes of globalization—trade globalization, technological globalization, and financial globalization—aggravate the income gap. 
+This study has also provided empirical confirmation that the financial development of a country significantly reduces the impact of
+all types of globalization on income inequality. In particular, the study finds that if a country is financially developed, the net effect of
+all types of globalization on income inequality is negative, meaning that in a financially developed country, globalization may actually
+help reduce income inequality. By efficiently allocating resources, reducing credit constraints, and providing funds for investment in
+human capital, financial development plays a crucial role in mitigating the effects of globalization on income inequality. Among
+controls, the effect of GDP per capita on income inequality is found to be negative, implying that an increase in GDP per capita tends to
+reduce income inequality. The R&D expenditure is also found to have negative influence but the impact is insignificant. In contrast,
+urbanization has a positive coefficient, which reflects that income inequality tends to worsen with urbanization.
 
 ## Op-Ed Writing-Farming Feminism: Unveiling the Unnoticed 
 
